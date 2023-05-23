@@ -19,7 +19,7 @@ NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de 
 
 <div align="center">
 
-![beauty-salon-gif](https://github.com/isadoraguiar/nlw-beauty-salon/assets/105128106/08f57c51-22fd-4c10-bd75-6a547c3713b7)
+![beauty-salon-gif](https://github.com/isadoraguiar/nlw-beauty-salon/assets/105128106/e2334548-a1b7-42a0-b2f9-5d6d3a04d38a)
 
 </div>
 
